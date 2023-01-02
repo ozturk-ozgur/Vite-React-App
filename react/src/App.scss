@@ -1,0 +1,11 @@
+div {
+  h1 {
+    font-size: 2rem;
+    color: brown;
+    text-align: center;
+
+    &:hover {
+      color: aqua;
+    }
+  }
+}
